@@ -1,4 +1,4 @@
-# Smart-Route-Finder-
+# Smart-Route-Finder
 #Algorithm Used – Dijkstra’s Algorithm
 Algorithm Steps:
 1.	Assign a tentative distance value to every node: 0 for the start node and ∞ for all others.
